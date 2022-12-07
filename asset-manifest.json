@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/triqui-traque/static/css/main.446e83dc.chunk.css",
+    "main.js": "/triqui-traque/static/js/main.6966e878.chunk.js",
+    "main.js.map": "/triqui-traque/static/js/main.6966e878.chunk.js.map",
+    "runtime-main.js": "/triqui-traque/static/js/runtime-main.129fa2d8.js",
+    "runtime-main.js.map": "/triqui-traque/static/js/runtime-main.129fa2d8.js.map",
+    "static/js/2.1371503a.chunk.js": "/triqui-traque/static/js/2.1371503a.chunk.js",
+    "static/js/2.1371503a.chunk.js.map": "/triqui-traque/static/js/2.1371503a.chunk.js.map",
+    "static/js/3.f405058e.chunk.js": "/triqui-traque/static/js/3.f405058e.chunk.js",
+    "static/js/3.f405058e.chunk.js.map": "/triqui-traque/static/js/3.f405058e.chunk.js.map",
+    "index.html": "/triqui-traque/index.html",
+    "static/css/main.446e83dc.chunk.css.map": "/triqui-traque/static/css/main.446e83dc.chunk.css.map",
+    "static/js/2.1371503a.chunk.js.LICENSE.txt": "/triqui-traque/static/js/2.1371503a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.129fa2d8.js",
+    "static/js/2.1371503a.chunk.js",
+    "static/css/main.446e83dc.chunk.css",
+    "static/js/main.6966e878.chunk.js"
+  ]
+}
